@@ -1,8 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import AppStoreBlack from './AppStoreBlack';
 
 const imageLinks = {
-  ios: 'https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg',
+  ios: AppStoreBlack,
   android: 'https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png',
 };
 
