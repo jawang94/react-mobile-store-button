@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import AppStoreBlack from './AppStoreBlack';
+import AppStoreBlack from './AppStoreBlack.svg';
 
 const imageLinks = {
   ios: AppStoreBlack,
